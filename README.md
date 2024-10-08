@@ -6,4 +6,6 @@
 2. FMCNet+ (update soon)
 
 # Update process
-The code library of FMCNet_series about Visible-Infrared Re-Identification (VI-ReID) will be updated soon.
+The code library of FMCNet_series about Visible-Infrared Re-Identification (VI-ReID) will be updated soon.   
+
+# 
